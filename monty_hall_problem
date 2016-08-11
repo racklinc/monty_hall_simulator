@@ -162,3 +162,4 @@ if ans_rand == "y":
 else:
 	print "Percent where switching was the correct choice: ",percent
 print ""
+#wrote by erick hutson - feel free to use as you wish.
